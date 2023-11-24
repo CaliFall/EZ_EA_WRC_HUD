@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+/build
+/dist
+/Lib
+/Scripts
+/.idea
+
+/Media/logo.png
+/Media/logo.psd
+
+/pyvenv.cfg
+/main.spec
+/file_version_info.py
